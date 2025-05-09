@@ -1,0 +1,22 @@
+SmartParkingApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/smartparking/
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── ReserveActivity.java
+│   │   │   │   ├── CancelActivity.java
+│   │   │   │   └── AdminActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── activity_reserve.xml
+│   │   │   │   │   ├── activity_cancel.xml
+│   │   │   │   │   ├── activity_admin.xml
+│   │   │   │   │   └── item_slot.xml
+│   │   │   │   └── values/
+│   │   │   │       ├── colors.xml
+│   │   │   │       └── strings.xml
+│   │   │   └── AndroidManifest.xml
+│   └── build.gradle
+└── build.gradle
